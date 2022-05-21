@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Demo](https://3-column-preview-o.netlify.app/)
+- Live Site URL: [Live Demo](https://order-summary-component-o.netlify.app/)
 
 ## My process
 
