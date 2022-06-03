@@ -92,7 +92,7 @@ body{
     justify-content: flex-start;
 }
 
-.plan__cost h6{
+.plan__cost h2{
     font-size: 0.8rem;
     margin-bottom: 0.3rem;
 }
